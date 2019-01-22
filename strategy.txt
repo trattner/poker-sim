@@ -1,0 +1,50 @@
+5 PLAYERS
+A all >= 8u
+K s>=5 u>=9 (2,3,4 OK)
+Q s>=7 u>=9
+J s>=8 u>=9
+10 s>=7 u>=9
+9 9 s>=8
+8 8 s>=7
+7 7
+6 6
+5 5
+
+6 PLAYERS
+A s>=2 u>=8
+K s>=3 u>=9
+Q s>=7 u>=9
+J s>=7 u>=9
+10 s>=7 u>=9
+9p 87s
+8p 7s
+7p
+6p
+5p
+
+7 PLAYERS
+A s>=2 u>=8
+K s>=2 u>=9
+Q s>=6 u>=9
+J s>=7 u>=9
+10 s>=7 u=10
+9p 78s
+8p 7s
+7p
+6p
+5p
+
+
+
+8 PLAYERS
+A s>=2 u>=9
+K s>=2 u>=10
+Q s>=4 u>=10
+J s>=7 u>=10
+10 s>=7 u>=9
+9p 78s
+8p 76s
+7p 6s
+6p
+5p
+4p
